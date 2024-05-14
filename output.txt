@@ -1,0 +1,46 @@
+PS C:\TURBOC3\BIN\project> cd "c:\TURBOC3\BIN\project\Practical-3_uv\" ; if ($?) { gcc hammingcode_uv.c -o hammingcode_uv } ; if ($?) { .\hammingcode_uv }
+Code by utsav vachhani(uv)
+What is Size of Your Message:10
+
+Enter message:0
+1
+1
+1
+1
+1
+1
+0
+1
+1
+
+Your Enter Message from sender side is :
+1101111110
+n=4
+
+After the Genartion of Hamming array is
+11011151115055
+Hammming code is : 1111
+---------------------------------------------------------------------------------------
+How many bit Recive at Reciver side :10
+0
+1
+1
+1
+1
+1
+1
+0
+1
+1
+Your Enter Message from reciver side is : 
+1101111110
+n=4
+
+After the Genartion of Hamming array is
+11011151115055
+
+Hammming code is : 0000
+
+-------------------------
+|       No Error!!!     |
+-------------------------
